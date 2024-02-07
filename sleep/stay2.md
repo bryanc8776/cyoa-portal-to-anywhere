@@ -1,7 +1,7 @@
-Congratulations!
+*Congratulations*!
 
-You have survived the Night of Portals...
+You have survived the **Night of Portals**...
 
-But you ended up with sleep paralysis.
+But you ended up with **sleep paralysis**.
 
-[Restart](../wake-up.md)
+**[Restart](../wake-up.md)**
