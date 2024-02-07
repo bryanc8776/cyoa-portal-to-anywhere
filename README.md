@@ -5,3 +5,5 @@ The purpose of creating this repository was to practice collaboration by pushing
 Click [here](wake-up.md) to begin your journey!
 
 Click [here]() to see the diagram of this adventure!
+
+Made by []
