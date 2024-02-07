@@ -1,5 +1,5 @@
-You decided to stay in the Ice Age.
+You decided to stay in the *Ice Age*.
 
-It is too cold, you die.
+It is too cold. **You die**.
 
 [Restart](../wake-up.md)
