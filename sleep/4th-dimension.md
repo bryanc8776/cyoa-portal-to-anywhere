@@ -2,4 +2,4 @@ The 4th dimension is too complex for your puny mind, you mind collapses upon the
 
 **You die.**
 
-[Restart](../wake-up.md)
+**[Restart](../wake-up.md)**
