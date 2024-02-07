@@ -6,4 +6,4 @@ Click [here](wake-up.md) to begin your journey!
 
 Click [here]() to see the diagram of this adventure!
 
-Made by []
+Made by [Bryan](https://github.com/bryanc8776) and [Jacob]()
