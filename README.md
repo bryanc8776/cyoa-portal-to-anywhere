@@ -1,5 +1,7 @@
-# CYOA Portal
+# CYOA Portal To Anywhere
 
 The purpose of creating this repository was to practice collaboration by pushing and pulling commits and linking files on Github.
 
 Click [here](wake-up.md) to begin your journey!
+
+Click [here]() to see the diagram of this adventure!
