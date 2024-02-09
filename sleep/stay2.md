@@ -1,4 +1,6 @@
-*Congratulations*!
+The demon has disappeared.
+
+***Congratulations!***
 
 You have survived the **Night of Portals**...
 
